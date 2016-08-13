@@ -1,0 +1,6 @@
+C:\Users\Dni Syndrum\Documents\Dueling Club\Dueling Club\bin\Release\Dueling Club.exe.config
+C:\Users\Dni Syndrum\Documents\Dueling Club\Dueling Club\bin\Release\Dueling Club.exe
+C:\Users\Dni Syndrum\Documents\Dueling Club\Dueling Club\bin\Release\Dueling Club.pdb
+C:\Users\Dni Syndrum\Documents\Dueling Club\Dueling Club\obj\Release\Dueling Club.exe
+C:\Users\Dni Syndrum\Documents\Dueling Club\Dueling Club\obj\Release\Dueling Club.pdb
+C:\Users\Dni Syndrum\Documents\Dueling Club\Dueling Club\obj\Release\Dueling Club.csprojResolveAssemblyReference.cache
