@@ -114,7 +114,7 @@ namespace Dueling_Club
                 //dueling.PlayLooping();
 
                 //if the duel is won, true is returned, else false is returned
-                //duelWon = Duel();
+                duelWon = Duel();
                 //dueling.Stop();
 
                 //if you won the duel
