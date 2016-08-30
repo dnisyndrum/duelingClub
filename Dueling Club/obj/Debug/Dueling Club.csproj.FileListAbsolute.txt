@@ -1,5 +1,0 @@
-C:\Users\Dni Syndrum\Documents\Dueling Club\Dueling Club\bin\Debug\Dueling Club.exe.config
-C:\Users\Dni Syndrum\Documents\Dueling Club\Dueling Club\bin\Debug\Dueling Club.exe
-C:\Users\Dni Syndrum\Documents\Dueling Club\Dueling Club\bin\Debug\Dueling Club.pdb
-C:\Users\Dni Syndrum\Documents\Dueling Club\Dueling Club\obj\Debug\Dueling Club.exe
-C:\Users\Dni Syndrum\Documents\Dueling Club\Dueling Club\obj\Debug\Dueling Club.pdb
